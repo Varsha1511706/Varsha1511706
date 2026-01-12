@@ -10,21 +10,29 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=dark&hide_border=true)
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha1511706&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha1511706&theme=dark&layout=compact&hide_border=true)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Varsha1511706&color=blue&style=flat)
-
-
-
+<p align="center">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Varsha1511706&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  
+  <!-- Extra Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
  
 
