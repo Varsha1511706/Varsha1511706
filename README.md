@@ -13,26 +13,19 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha1511706&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha1511706&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 <p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Varsha1511706&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-  
-  <!-- Extra Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Varsha1511706&color=blue&style=flat" alt="Profile Views"/>
 </p>
- 
-
