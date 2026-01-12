@@ -10,22 +10,55 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 
 ---
 
-## 🔥 GitHub Contribution Summary
+<!-- Contribution Summary Panel (Inline SVG) -->
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Contribution Summary">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="220" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 
-<table>
-  <tr>
-    <td><strong>Total Contributions</strong></td>
-    <td>880</td>
-    <td><em>Jan 10, 2017 – Present</em></td>
-  </tr>
-  <tr>
-    <td><strong>Current Streak</strong> 🔥</td>
-    <td>6 days</td>
-    <td><em>Oct 20 – Oct 25</em></td>
-  </tr>
-  <tr>
-    <td><strong>Longest Streak</strong></td>
-    <td>12 days</td>
-    <td><em>Oct 15, 2018 – Oct 26, 2018</em></td>
-  </tr>
-</table>
+  <!-- Title -->
+  <text x="24" y="40" fill="#c9d1d9" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600">
+    GitHub Contribution Summary
+  </text>
+
+  <!-- Divider -->
+  <line x1="24" y1="56" x2="776" y2="56" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Card 1: Total Contributions -->
+  <rect x="24" y="72" width="240" height="120" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="44" y="102" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">
+    Total Contributions
+  </text>
+  <text x="44" y="140" fill="#58a6ff" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="36" font-weight="700">
+    880
+  </text>
+  <text x="44" y="164" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="12">
+    Jan 10, 2017 – Present
+  </text>
+
+  <!-- Card 2: Current Streak -->
+  <rect x="280" y="72" width="240" height="120" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Flame icon (simple) -->
+  <circle cx="300" cy="96" r="10" fill="#ff7b72"/>
+  <path d="M300 88 C305 92, 304 98, 300 104 C296 98, 295 92, 300 88 Z" fill="#ffa198"/>
+  <text x="320" y="102" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">
+    Current Streak
+  </text>
+  <text x="320" y="140" fill="#ffa657" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="36" font-weight="700">
+    6
+  </text>
+  <text x="320" y="164" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="12">
+    Oct 20 – Oct 25
+  </text>
+
+  <!-- Card 3: Longest Streak -->
+  <rect x="536" y="72" width="240" height="120" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="556" y="102" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">
+    Longest Streak
+  </text>
+  <text x="556" y="140" fill="#3fb950" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="36" font-weight="700">
+    12
+  </text>
+  <text x="556" y="164" fill="#8b949e" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="12">
+    Oct 15, 2018 – Oct 26, 2018
+  </text>
+</svg>
