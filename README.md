@@ -10,12 +10,12 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Overall Stats -->
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=dark&hide_border=true)
 
-<!-- Streak Stats -->
+<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=dark&hide_border=true)
 
 <!-- Top Languages -->
@@ -23,6 +23,7 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Varsha1511706&color=blue&style=flat)
+
 
 
  
