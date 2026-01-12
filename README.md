@@ -10,22 +10,22 @@ About Me :<br>I’m currently working on<br>Building AI-driven tools, full-stack
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🔥 GitHub Contribution Summary
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Varsha1511706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha1511706&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha1511706&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Varsha1511706&color=blue&style=flat" alt="Profile Views"/>
-</p>
+<table>
+  <tr>
+    <td><strong>Total Contributions</strong></td>
+    <td>880</td>
+    <td><em>Jan 10, 2017 – Present</em></td>
+  </tr>
+  <tr>
+    <td><strong>Current Streak</strong> 🔥</td>
+    <td>6 days</td>
+    <td><em>Oct 20 – Oct 25</em></td>
+  </tr>
+  <tr>
+    <td><strong>Longest Streak</strong></td>
+    <td>12 days</td>
+    <td><em>Oct 15, 2018 – Oct 26, 2018</em></td>
+  </tr>
+</table>
